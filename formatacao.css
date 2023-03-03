@@ -1,0 +1,430 @@
+.cor_fundo{
+    background-color: #09090B;
+}
+
+/* Códigos linha superior
+
+*/
+
+.titulo_superior{
+    display: inline-block;
+}
+
+.portfolio{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: bold;
+    font-size: 40px;
+    color: #f9f9f9;
+    margin-top: 30px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.sobre_mim{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: #f9f9f9;
+    margin-top: 30px;
+    margin-left: 600px;
+    display: inline-block;
+}
+
+.projetos{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: #f9f9f9;
+    margin-top: 30px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.serviços{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: #f9f9f9;
+    margin-top: 30px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.minhas_skills{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: #f9f9f9;
+    margin-top: 30px;
+    margin-left: 20px;
+    display: inline-block;  
+}
+
+/* Códigos parte pessoal
+
+*/
+
+.apresentaçao_nome{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: bold;
+    font-size: 40px;
+    margin-top: 150px;
+    margin-left: 50px;
+    color: #f9f9f9;
+    display: inline-block;
+}
+
+.aboutme_image{
+    display: inline-block;
+    width: 200px;
+    margin-left: 550px;
+}
+
+.funcao{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gray;
+    font-size: 20px;
+    font-style: bold;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.botao_baixar{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #00DF5E;
+    margin-left: 50px;
+    line-height: 15px;
+    text-align: center;
+    width: 140px;
+    height: 30px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.botao_contato{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #f9f9f9;
+    background-color: #09090B;
+    margin-left: 50px;
+    line-height: 15px;
+    text-align: center;
+    width: 140px;
+    height: 30px;
+    border-color: #f9f9f9;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+/* Códigos biografia até contatos
+*/
+
+.biografia_titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-left: 550px;
+    margin-top: 150px;
+    color: #f9f9f9;
+}
+
+.biografia{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 10px;
+    width: 750px;
+    margin-left: 230px;
+    height: 160px;
+    color: gray;
+}
+
+.titulo_contatos{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-left: 550px;
+    margin-top: 100px;
+    color: #f9f9f9;
+}
+
+.contatos{
+    display: inline-block;
+}
+
+
+.img_meunome{
+    background-color: #212121;
+    border-radius: 500px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 72px;
+    margin-top: 80px;
+    margin-left: 200px;
+    display: inline-block;
+}
+
+.meu_nome{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -25px;
+    margin-top: -40px;
+    width: 100px;
+    color: #f9f9f9;
+    font-size: 15px;
+}
+
+.name{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -25px;
+    margin-top: -35px;
+    color: gray;
+    line-height: 0px;
+    font-size: 10px;
+    width: 100px;
+}
+
+.img_email{
+    background-color: #212121;
+    border-radius: 500px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 72px;
+    margin-top: 80px;
+    margin-left: 200px;
+    display: inline-block;
+}
+
+.meu_email{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -25px;
+    margin-top: -40px;
+    width: 100px;
+    color: #f9f9f9;
+    font-size: 15px;
+}
+
+.email{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -45px;
+    margin-top: -35px;
+    color: gray;
+    line-height: 0px;
+    font-size: 10px;
+    width: 100px;
+}
+
+
+.img_instagram{
+    background-color: #212121;
+    border-radius: 500px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 72px;
+    margin-top: 80px;
+    margin-left: 200px;
+    display: inline-block;
+}
+
+.meu_instagram{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -25px;
+    margin-top: -40px;
+    width: 100px;
+    color: #f9f9f9;
+    font-size: 15px;
+}
+
+.instagram{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -25px;
+    margin-top: -35px;
+    color: gray;
+    line-height: 0px;
+    font-size: 10px;
+    width: 100px;
+}
+
+.img_telefone{
+    background-color: #212121;
+    border-radius: 500px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 72px;
+    margin-top: 80px;
+    margin-left: 200px;
+    display: inline-block;
+}
+
+.meu_telefone{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -25px;
+    margin-top: -40px;
+    width: 100px;
+    color: #f9f9f9;
+    font-size: 15px;
+}
+
+.telefone{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -25px;
+    margin-top: -35px;
+    color: gray;
+    line-height: 0px;
+    font-size: 10px;
+    width: 100px;
+}
+
+/* Códigos Projetos
+*/
+
+.projeto_titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-left: 550px;
+    margin-top: 50px;
+    color: #f9f9f9;
+}
+
+.caixas{
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+.box{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 250px;
+    height: 175px;
+    background-color: #6a6a6a4a;
+    margin-left: 230px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-style:solid;
+    border-color: #333333;
+}
+
+.box_dentro{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 214px;
+    height: 84px;
+    background-color: #09090B;
+    margin-top: 20px;
+    margin-left: 18px;
+    border-radius: 2px;
+    border-style:solid;
+    border-color: #333333;
+}
+
+.titulo_projeto{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    color: #f9f9f9;
+    margin-left: 18px;
+}
+
+.linguagens_projeto{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+    color: gray;
+    margin-left: 18px;
+    margin-top: -10px;
+}
+
+/*Códigos Serviços
+*/
+
+.servicos_titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-left: 550px;
+    margin-top: 40px;
+    color: #f9f9f9;
+}
+
+.linha_verde{
+    margin-top: 18px;
+    width: 245px;
+    height: 3px;
+    size:200px;
+    background-color: #00DF5E;
+}
+
+.img_servicos{
+    margin-top: 20px;
+    margin-left: 18px;
+}
+
+.titulo_servico{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 18px;
+    margin-top: 40px;
+    font-size: 20px;
+    color: gray;
+}
+
+/* Códigos Skills
+*/
+
+.skill_titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-left: 570px;
+    margin-top: 40px;
+    color: #f9f9f9;
+}
+
+.box_skills{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 150px;
+    height: 100px;
+    background-color: #6a6a6a4a;
+    margin-left: 180px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-style:solid;
+    border-color: #333333;
+}
+
+.box_img{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.box_texto_html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 50px;
+    margin-top: 0px;
+    color: gray;
+}
+
+
+.box_texto_css{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 60px;
+    margin-top: 0px;
+    color: gray;
+}
+
+.box_texto_java{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 40px;
+    margin-top: 0px;
+    color: gray;
+}
+
+.referencia{
+    margin-left: -10px;
+    margin-top: 50px;
+    margin-bottom: -10px;
+    width: 1218px;
+    height: 50px;
+    background-color:#333333;
+    
+}
+
+.texto_ref{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: #f9f9f9;
+    text-align: center;
+}

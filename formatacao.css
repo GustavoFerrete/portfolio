@@ -322,6 +322,7 @@
     border-radius: 2px;
     border-style:solid;
     border-color: #333333;
+    cursor: pointer;
 }
 
 .titulo_projeto{

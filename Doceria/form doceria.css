@@ -1,0 +1,255 @@
+/* Formatação da ABA Login Doceria
+*/
+
+.img_fundo{
+    background-image: url("logo2.png") ;
+    background-repeat: no-repeat;
+    background-position:top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.fundo_login{
+    background-color: #ffffff;
+    height: 250px;
+    width: 300px;
+    border-radius: 30px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.titulo{
+    margin-top: 0px;
+}
+
+.caixas_login{
+    width: 230px;
+    font-style: bold;
+    text-align: center;
+    height: 30px;
+    background-color: rgb(215, 215, 215);
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.botao_entrar{    
+    width: 230px;
+    font-style: bold;
+    text-align: center;
+    color: white;
+    height: 30px;
+    background-color: rgb(58, 142, 142);
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+/* Formatação ABA Cadastro Doceria
+*/
+
+.bg_cad{
+    background-image: url("logo2.png");
+    background-repeat: no-repeat;
+    background-position:top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.titulo_cad{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.fundo_cadastro{
+    background-color: rgba(0, 0, 0, 0.414);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    width: 470px;
+    height: 450px;
+    margin-left: 650px;
+    margin-top: -50px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+.lado_esq{
+    display: inline;
+}
+
+.lado_dir{
+    text-align: center;
+    margin-left: 210px;
+    display: inline;
+}
+
+.lado_dir2{
+    margin-left: 225px;
+    display: inline;
+}
+
+
+.lado_dir3{
+    margin-left: 213px;
+    display: inline;
+}
+
+.caixa_cadastro{
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 1px;
+}
+
+.caixa_cadastro2{
+    height: 20px;
+    width: 200px;
+    margin-left: 44px;
+    border-left: 450px;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 1px;
+}
+
+.botao_cadastro{
+    width: 230px;
+    font-style: bold;
+    text-align: center;
+    color: white;
+    height: 30px;
+    margin-left: 110px ;
+    background-color: rgb(58, 142, 142);
+    border-radius: 5px;
+    border-width: 0px
+}
+
+/* Formatação ABA Tela Inicial
+*/
+
+
+.textocentro{
+    margin-top: 0px;
+    text-align: center;
+}
+
+.centro{
+    margin-left: 450px;
+}
+
+.alinha{
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.redirecionar{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.simbolo{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#back-to-top {
+    background-color: white;
+    border-width: 1px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+  }
+
+.superior{
+    background-image: url("logo2.png");
+    width: auto;
+    height: 180px;
+    margin-top: -150px;
+    margin-left: -10px;
+    margin-right: -7.9px;
+    background-repeat: no-repeat;
+    background-position:top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.cabecalho{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -40px;
+    word-spacing: 80px;
+}
+
+.subtitulo{
+    background-image: url('etiqueta.png');
+    background-repeat: no-repeat;
+    height: 43px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.subtitulo_texto{
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.subtitulo_marcas{
+    margin-top: 20px;
+}
+
+.doce1{
+    margin-top: 20px;
+    text-align: left;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.marcas{
+    margin-top: 20px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.inferior{
+    background-image: url("logo2.png");
+    height: auto;
+    margin-top: 200px;
+    margin-left: 0px;
+    margin-right: -7.9px;
+    background-repeat: no-repeat;
+    background-position:top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.fundo{
+    color: white;
+    margin-top: -140px;
+}
+
+
+/* Formatação ABA Nossa Historia
+*/
+
+.texto_qm_somos{
+    width: auto;
+    height: auto;
+    margin-left: 20px;
+    text-align:justify;
+    margin-top: 20px;
+    height: 40px;
+}
+
+/* Formatação ABA Brigadeiros
+*/
+

@@ -25,7 +25,7 @@
     font-size: 15px;
     color: #f9f9f9;
     margin-top: 30px;
-    margin-left: 600px;
+    margin-left: 400px;
     display: inline-block;
     cursor: pointer;
 }
@@ -123,7 +123,7 @@
 .biografia_titulo{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
-    margin-left: 550px;
+    text-align: center;
     margin-top: 150px;
     color: #f9f9f9;
 }
@@ -131,6 +131,7 @@
 .biografia{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
+    align-items: center;
     line-height: 20px;
     margin-top: 10px;
     width: 750px;
@@ -142,7 +143,7 @@
 .titulo_contatos{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
-    margin-left: 550px;
+    text-align: center;
     margin-top: 100px;
     color: #f9f9f9;
 }
@@ -160,7 +161,7 @@
     text-align: center;
     line-height: 72px;
     margin-top: 80px;
-    margin-left: 200px;
+    margin-left: 300px;
     display: inline-block;
 }
 
@@ -191,7 +192,7 @@
     text-align: center;
     line-height: 72px;
     margin-top: 80px;
-    margin-left: 200px;
+    margin-left: 140px;
     display: inline-block;
 }
 
@@ -224,7 +225,7 @@
     text-align: center;
     line-height: 72px;
     margin-top: 80px;
-    margin-left: 200px;
+    margin-left: 140px;
     display: inline-block;
 }
 
@@ -256,7 +257,7 @@
     text-align: center;
     line-height: 72px;
     margin-top: 80px;
-    margin-left: 200px;
+    margin-left: 140px;
     display: inline-block;
 }
 
@@ -287,7 +288,7 @@
 .projeto_titulo{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
-    margin-left: 550px;
+    text-align: center;
     margin-top: 50px;
     color: #f9f9f9;
 }
@@ -346,7 +347,7 @@
 .servicos_titulo{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
-    margin-left: 550px;
+    text-align: center;
     margin-top: 40px;
     color: #f9f9f9;
 }
@@ -378,7 +379,7 @@
 .skill_titulo{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
-    margin-left: 570px;
+    text-align: center;
     margin-top: 40px;
     color: #f9f9f9;
 }
@@ -389,7 +390,7 @@
     width: 150px;
     height: 130px;
     background-color: #6a6a6a4a;
-    margin-left: 180px;
+    margin-left: 160px;
     margin-top: 10px;
     border-radius: 5px;
     border-style:solid;

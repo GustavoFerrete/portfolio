@@ -99,6 +99,7 @@
     height: 30px;
     border-radius: 20px;
     display: inline-block;
+    cursor: pointer;
 }
 
 .botao_contato{
@@ -113,6 +114,7 @@
     border-color: #f9f9f9;
     border-radius: 20px;
     display: inline-block;
+    cursor: pointer;
 }
 
 /* Códigos biografia até contatos

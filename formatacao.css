@@ -390,7 +390,8 @@
     width: 150px;
     height: 130px;
     background-color: #6a6a6a4a;
-    margin-left: 160px;
+    margin-left: 230px;
+    margin-right: -100px;
     margin-top: 10px;
     border-radius: 5px;
     border-style:solid;

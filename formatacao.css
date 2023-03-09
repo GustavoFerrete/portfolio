@@ -384,14 +384,39 @@
     color: #f9f9f9;
 }
 
-.box_skills{
+.box_skills_html{
     display: inline-block;
     box-sizing: border-box;
     width: 150px;
     height: 130px;
     background-color: #6a6a6a4a;
-    margin-left: 230px;
-    margin-right: -100px;
+    margin-left: 320px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-style:solid;
+    border-color: #333333;
+}
+
+.box_skills_css{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 150px;
+    height: 130px;
+    background-color: #6a6a6a4a;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-style:solid;
+    border-color: #333333;
+}
+
+.box_skills_java{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 150px;
+    height: 130px;
+    background-color: #6a6a6a4a;
+    margin-left: 50px;
     margin-top: 10px;
     border-radius: 5px;
     border-style:solid;
